@@ -9,6 +9,9 @@
   "license": "MIT",
   "author": "Frenco <hey@frenco.dev>",
   "main": "./.prettierrc.json",
+  "files": [
+    ".prettierrc.json"
+  ],
   "dependencies": {
     "prettier-plugin-organize-imports": "^2.3.3",
     "prettier-plugin-packagejson": "^2.2.11"
