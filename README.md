@@ -4,7 +4,7 @@
 
 > **Disclaimer**
 > 
-> The title `minimalistic` doesn't reflect the config but rather stands for the style of the formatted code which is minimal and clean with less syntatic tokens. In fact, the config is instead quite pedantic and strict.
+> The title `minimalistic` doesn't reflect the config but rather stands for the style of the formatted code which is minimal and clean with less syntactic tokens. In fact, the config is instead quite pedantic and strict.
 
 ## Usage
 
