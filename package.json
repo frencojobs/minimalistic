@@ -1,6 +1,6 @@
 {
   "name": "minimalistic",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Opinionated but sensible and minimal prettier config with plugins",
   "keywords": [
     "prettier"
