@@ -14,7 +14,7 @@
     "index.js"
   ],
   "scripts": {
-    "format": "prettier -w . --cache",
+    "format": "prettier --write --cache .",
     "version": "changeset version && pnpm run format"
   },
   "dependencies": {
